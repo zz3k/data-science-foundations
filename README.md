@@ -1,1 +1,6 @@
-# data-science-foundations
+data-science-foundations
+│
+├─ python-basics/
+├─ pandas-practice/
+├─ visualization/
+└─ regression/
